@@ -15,6 +15,9 @@
 2. Download the latest LTS (Long Term Support) version
 3. Save the ISO file to your computer
 
+### Note:
+- Other Distros may work with varying levels of success, Mint does work well as it is based on Ubuntu but make sure to install the openssh client if you want to be able to manage your server remotely ("sudo apt install openssh-server")
+
 ### Step 2: Create Bootable USB Drive
 
 On Windows:
